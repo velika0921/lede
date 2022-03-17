@@ -1,5 +1,4 @@
 name: Jarvis-OpenWrt-CI
-
     on:
       push:
         branches: 
